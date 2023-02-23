@@ -95,7 +95,7 @@ class App(UserControl):
                 Row(
                     alignment=MainAxisAlignment.SPACE_BETWEEN,
                     controls=[
-                        Text('Speach-er', color=colors.BLACK, size=30),
+                        Text('Speech-er', color=colors.BLACK, size=30),
                         IconButton(
                             bgcolor=colors.RED,
                             icon=icons.CLOSE,
